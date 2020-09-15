@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,CAAC,CAAC;EACA,UAAU,EAAE,UAAU;CAAG;;AAC3B,AAAA,IAAI,CAAC;EACH,WAAW,EAAE,kBAAkB;CAAG",
+    "sources": [
+        "../ssas/stail.sass"
+    ],
+    "names": [],
+    "file": "stail.css"
+}
